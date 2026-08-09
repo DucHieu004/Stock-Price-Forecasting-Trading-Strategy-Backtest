@@ -149,5 +149,5 @@ pytest tests/ -v
 
 ## Tác giả
 
-*(Tên bạn)* — Data Analyst / dự án cá nhân phục vụ ứng tuyển vị trí Data
-Science / Quant Research. [LinkedIn] · [GitHub] · [Email]
+*Nguyễn Đức Hiếu* — Data Analyst / dự án cá nhân phục vụ ứng tuyển vị trí Fresher.
+[[LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-hi%E1%BA%BFu-nguy%E1%BB%85n-37166340b/)] · [https://github.com/DucHieu004] · [nguyenduchieu21052004@gmail.com]
